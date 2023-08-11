@@ -1,0 +1,8 @@
+C:\Users\mokgo\Desktop\CSharp\Factorial\Factorial\bin\Debug\Factorial.exe.config
+C:\Users\mokgo\Desktop\CSharp\Factorial\Factorial\bin\Debug\Factorial.exe
+C:\Users\mokgo\Desktop\CSharp\Factorial\Factorial\bin\Debug\Factorial.pdb
+C:\Users\mokgo\Desktop\CSharp\Factorial\Factorial\obj\Debug\Factorial.csproj.AssemblyReference.cache
+C:\Users\mokgo\Desktop\CSharp\Factorial\Factorial\obj\Debug\Factorial.csproj.SuggestedBindingRedirects.cache
+C:\Users\mokgo\Desktop\CSharp\Factorial\Factorial\obj\Debug\Factorial.csproj.CoreCompileInputs.cache
+C:\Users\mokgo\Desktop\CSharp\Factorial\Factorial\obj\Debug\Factorial.exe
+C:\Users\mokgo\Desktop\CSharp\Factorial\Factorial\obj\Debug\Factorial.pdb
